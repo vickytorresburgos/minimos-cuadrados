@@ -1,9 +1,6 @@
 # Aproximación discreta por mínimos cuadrados
 
-## María Victoria Torres Burgos
-## Análisis Numérico
-## Universidad de Mendoza
-## 3° 2024
+## María Victoria Torres Burgos - Análisis Numérico - Universidad de Mendoza - 3° 2024
 
 Este programa permite ajustar diferentes tipos de modelos matemáticos a conjuntos de datos. Ofrece soporte para ajuste polinómico, exponencial y fraccionario. Utiliza la biblioteca numpy para cálculos numéricos y colorama para una interfaz de usuario colorida en la terminal.
 
